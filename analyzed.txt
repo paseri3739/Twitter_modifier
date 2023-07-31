@@ -1,0 +1,29 @@
+以下に、これまでのコードで使用されているパッケージをまとめています：
+
+1. `android.app`: Androidのアプリケーションモデルの基本クラスを含むパッケージ。ActivityやApplicationなどが含まれます。
+
+2. `android.content`: Androidアプリケーションのコンテキストに関連するクラスを含むパッケージ。Context、Intent、SharedPreferencesなどが含まれます。
+
+3. `android.net`: Androidのネットワーキングと関連するクラスを含むパッケージ。Uriクラスなどが含まれます。
+
+4. `android.os`: Androidの基本的なオペレーティングシステムAPIを含むパッケージ。BundleクラスやBuildクラスなどが含まれます。
+
+5. `android.view`: Androidのビュー階層と関連するクラスを含むパッケージ。Viewクラスなどが含まれます。
+
+6. `android.widget`: AndroidのUIウィジェットと関連するクラスを含むパッケージ。TextView、ImageViewなどが含まれます。
+
+7. `com.github.kyuubiran.ezxhelper`: EzXHelperライブラリのクラスを含むパッケージ。Log、HookFactory、ClassUtilsなどが含まれます。
+
+8. `com.tencent.mmkv`: TencentのMMKVライブラリのクラスを含むパッケージ。
+
+9. `dalvik.bytecode`: Dalvikバイトコードと関連するクラスを含むパッケージ。Opcodesクラスなどが含まれます。
+
+10. `de.robv.android.xposed`: Xposedフレームワークのクラスを含むパッケージ。IXposedHookLoadPackage、IXposedHookZygoteInit、XC_MethodHookなどが含まれます。
+
+11. `icu.nullptr.twifucker`: このアプリケーション自体のクラスを含むパッケージ。
+
+12. `java.io`: Javaの入出力に関連するクラスを含むパッケージ。File、InputStream、BufferedReaderなどが含まれます。
+
+13. `java.util`: Javaのユーティリティクラスを含むパッケージ。Date、List、Randomなどが含まれます。
+
+14. `org.json`: JSONオブジェクトの操作に関連するクラスを含むパッケージ。JSONObject、JSONArray、JSONExceptionなどが含まれます。
