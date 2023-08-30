@@ -1,0 +1,83 @@
+Kotlin Files Analysis Summary
+==================================================
+
+File Name: JsonTimelineResponseHook.kt
+Classes: None
+Methods: init
+--------------------------------------------------
+File Name: JsonApiBaseHook.kt
+Classes: None
+Methods: init
+--------------------------------------------------
+File Name: JsonMediaCardEntityV2Hook.kt
+Classes: None
+Methods: init
+--------------------------------------------------
+File Name: JsonTimelineStatusHook.kt
+Classes: None
+Methods: init
+--------------------------------------------------
+File Name: JsonTimelineStatusEntitiesHook.kt
+Classes: None
+Methods: init
+--------------------------------------------------
+File Name: JsonTimelineStatusEntitiesUrlHook.kt
+Classes: None
+Methods: init
+--------------------------------------------------
+File Name: JsonUserEntitiesUrlHook.kt
+Classes: None
+Methods: init
+--------------------------------------------------
+File Name: JsonTimelineEntryHook.kt
+Classes: None
+Methods: init
+--------------------------------------------------
+File Name: JsonFleetsTimelineResponseHook.kt
+Classes: None
+Methods: init
+--------------------------------------------------
+File Name: JsonTimelineTweetHook.kt
+Classes: None
+Methods: init
+--------------------------------------------------
+File Name: CustomTabsHook.kt
+Classes: None
+Methods: init, loadCachedHookInfo, saveHookInfo, searchHook, loadHookInfo
+--------------------------------------------------
+File Name: UrlHook.kt
+Classes: None
+Methods: init, clearExtraParams
+--------------------------------------------------
+File Name: DrawerNavbarHook.kt
+Classes: None
+Methods: init, loadCachedHookInfo, saveHookInfo, searchHook, loadHookInfo
+--------------------------------------------------
+File Name: BaseHook.kt
+Classes: BaseHook
+Methods: init
+--------------------------------------------------
+File Name: JsonTimelineTrendHook.kt
+Classes: None
+Methods: init
+--------------------------------------------------
+File Name: ActivityHook.kt
+Classes: None
+Methods: init
+--------------------------------------------------
+File Name: SelectableTextHook.kt
+Classes: None
+Methods: init
+--------------------------------------------------
+File Name: JsonHook.kt
+Classes: None
+Methods: init, read, handleJson
+--------------------------------------------------
+File Name: FeatureSwitchHook.kt
+Classes: None
+Methods: init, loadCachedHookInfo, saveHookInfo, searchHook, loadHookInfo, getParamKeyValue, logParamKeyResultOnce
+--------------------------------------------------
+File Name: JsonTimelineModuleHook.kt
+Classes: None
+Methods: init
+--------------------------------------------------
